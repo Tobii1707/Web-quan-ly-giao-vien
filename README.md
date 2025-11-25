@@ -94,14 +94,13 @@ Hệ thống phân quyền chặt chẽ dựa trên vai trò người dùng:
 
 ## 🛠 Công nghệ sử dụng
 
-*(Bạn hãy điền icon hoặc tên công nghệ cụ thể nhóm bạn dùng vào đây để trông chuyên nghiệp hơn)*
 
 | Lĩnh vực | Công nghệ |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat-square&logo=java&logoColor=white) *(hoặc NodeJS/PHP...)* |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) *(hoặc Vue/HTML5...)* |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat-square&logo=java&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | Postman, Git/GitHub, Visual Studio Code |
+| **Tools** | Postman, Git/GitHub, intellij |
 
 ---
 
