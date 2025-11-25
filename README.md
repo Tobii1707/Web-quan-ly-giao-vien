@@ -42,10 +42,10 @@ Dự án được phân chia rõ ràng thành 2 phân hệ lớn (**Trưởng Kh
 
 | Phân hệ (Module) | Vai trò | Thành viên | MSSV | Nhiệm vụ chính |
 | :--- | :---: | :--- | :---: | :--- |
-| **🎓 TRƯỞNG KHOA**<br>*(Quản lý Đào tạo)* | **Backend** | **Hà Nam Khánh** 👑 | 22010149 | Xây dựng Core API quản lý nhân sự, lớp học phần, thuật toán phân công & thống kê giờ dạy. |
+| **🎓 TRƯỞNG KHOA**<br>*(Quản lý Đào tạo)* | **Backend** | **Hà Nam Khánh** | 22010149 | Xây dựng Core API quản lý nhân sự, lớp học phần, thuật toán phân công & thống kê giờ dạy. |
 | | **Frontend** | **Trần Duy Việt Hoàng** | 22010142 | Thiết kế giao diện Dashboard quản lý, Form nhập liệu lớp học, tra cứu hồ sơ giảng viên. |
 | | | | | |
-| **💸 KẾ TOÁN**<br>*(Quản lý Tài chính)* | **Backend** | **Dương Nhật Minh** | 22010366 | Xây dựng API cấu hình tham số lương, Engine tính toán lương tự động, xuất báo cáo tài chính. |
+| **💸 KẾ TOÁN**<br>*(Quản lý Tài chính)* | **Backend** | **Dương Nhật Minh** 👑 | 22010366 | Xây dựng API cấu hình tham số lương, Engine tính toán lương tự động, xuất báo cáo tài chính. |
 | | **Frontend** | **Nguyễn Thị Kiều Loan** | 22010278 | Xây dựng giao diện bảng lương, màn hình cấu hình hệ số, biểu đồ thống kê tài chính. |
 
 ---
